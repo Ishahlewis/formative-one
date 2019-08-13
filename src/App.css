@@ -69,12 +69,13 @@ img{
 }
 
 .name-box{
-  position: fixed;
+  position: absolute;
   width: 85.5%;
   background-color:rgba(255,255,255, .9);
   align-items: center;
   height: 2.2em;
-  left: 4.28em;
+  left: 0;
+
 }
 
 .name{
